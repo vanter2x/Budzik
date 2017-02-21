@@ -1,0 +1,9 @@
+d:\c#-programowanie\budzik\budzik\bin\Debug\budzik.exe.config
+d:\c#-programowanie\budzik\budzik\bin\Debug\budzik.exe
+d:\c#-programowanie\budzik\budzik\bin\Debug\budzik.pdb
+d:\c#-programowanie\budzik\budzik\obj\Debug\budzik.csprojResolveAssemblyReference.cache
+d:\c#-programowanie\budzik\budzik\obj\Debug\budzik.Properties.Resources.resources
+d:\c#-programowanie\budzik\budzik\obj\Debug\budzik.csproj.GenerateResource.Cache
+d:\c#-programowanie\budzik\budzik\obj\Debug\budzik.exe
+d:\c#-programowanie\budzik\budzik\obj\Debug\budzik.pdb
+d:\c#-programowanie\budzik\budzik\obj\Debug\budzik.Budzik.resources
